@@ -4,8 +4,7 @@
     "label": "Programmer",
     "picture": "",
     "email": "mhodgesjr2010@gmail.com",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Technologist | Cyber Geek",
     "location": {
       "postalCode": "PA 19406",
       "city": "King of Prussia",
@@ -34,7 +33,7 @@
       "company": "Lockheed Martin Corp",
       "position": "Info Assurance Engineer",
       "website": "https://www.lockheedmartin.com/us.html",
-      "startDate": "2012-3-01",
+      "startDate": "2012-03-01",
       "summary": "Certified Information Systems Security Professional -  serve the needs of the business in various capacities including cyber governance & compliance, new technology exploration, and custom tool development.",
       "highlights": [
         "Developed customized solution to enrich Splunk content by leveraging a 3rd party database"
@@ -56,7 +55,7 @@
     {
       "organization": "Junior Achievement in a day",
       "position": "Teacher",
-      "summary": "Teach JA in a day curriculum to inner city middle school.",
+      "summary": "Teach JA in a day curriculum to inner city middle school."
     }
   ],
   "education": [
@@ -114,3 +113,4 @@
       ]
     }
   ]
+}
